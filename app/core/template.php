@@ -1,5 +1,5 @@
 <?php
-require 'TemplateException.php';
+require 'app/core/TemplateException.php';
 
 class Template
 {
