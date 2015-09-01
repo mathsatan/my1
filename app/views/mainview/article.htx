@@ -1,0 +1,6 @@
+<div id="article_briefly">
+    <h4> <a href='/articles/read/article_id/<#article_id#>'><#article_title#></a> </h4>
+    <img src="<#path_to_title_pic#>">
+    <#article_text_briefly#>
+    <h5><#date#></h5>
+</div>

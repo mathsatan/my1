@@ -1,0 +1,5 @@
+<div class="article_comment">
+    <h4><#user_name#></h4>
+    <p><#article_comment_text#></p>
+    <h5>[<#comment_date#>]</h5>
+</div>
